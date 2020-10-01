@@ -1,7 +1,7 @@
-#Covid19 World Tracker#
+# Covid19 World Tracker
 ![What is this](map.png)
-##Made with HTML,CSS and JS ❤️##
-###Wish to make a contribution?###
+## Made with HTML,CSS and JS ❤️##
+### Wish to make a contribution?###
 
 > Fork the repo
 > Make valid edits
