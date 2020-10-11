@@ -6,3 +6,4 @@
 > Fork the repo
 > Make valid edits
 > Push and make a pull request!
+> Don't forget to star the repo
