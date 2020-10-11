@@ -7,4 +7,4 @@
 > Make valid edits
 > Push and make a pull request!
 
-Don't forget to star the repo
+Don't forget to star the repo😃.
